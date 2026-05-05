@@ -1,7 +1,16 @@
-import { Box, Container, Grid, Stack, Typography } from "@mui/material";
+import {
+  Box,
+  Button,
+  Container,
+  Grid,
+  Paper,
+  Stack,
+  Typography,
+} from "@mui/material";
 import React from "react";
 import { useTranslation } from "react-i18next";
 import ServiceCard from "./ServiceCard";
+import { DesignServices, Terminal, Web } from "@mui/icons-material";
 
 const Services = () => {
   const { t } = useTranslation();
@@ -64,25 +73,48 @@ const Services = () => {
         </Box>
         <Stack
           spacing={3}
-          sx={{ mt: 3, width: "100%" }}
-          direction={"row"}
-          justifyContent={"space-between"}
-          alignItems={"stretch"}
-          flexWrap={"wrap"}
+          direction={{ xs: "column", md: "row" }}
+          justifyConternt={"center"}
+          alignItems={"center"}
+          sx={{ width: "100%", mt: 7 }}
         >
           <ServiceCard
-            title={t("services.service1.title")}
-            description={t("services.service1.description")}
+            title={t("services.card1.title")}
+            description={t("services.card1.description")}
+            icon={<Web sx={{ fontSize: 36, color: "background.default" }} />}
           />
           <ServiceCard
-            title={t("services.service1.title")}
-            description={t("services.service1.description")}
+            title={t("services.card2.title")}
+            description={t("services.card2.description")}
+            icon={
+              <Terminal sx={{ fontSize: 36, color: "background.default" }} />
+            }
           />
           <ServiceCard
-            title={t("services.service1.title")}
-            description={t("services.service1.description")}
+            title={t("services.card3.title")}
+            description={t("services.card3.description")}
+            icon={
+              <DesignServices
+                sx={{ fontSize: 36, color: "background.default" }}
+              />
+            }
           />
         </Stack>
+        <Box sx={{ display: "flex", justifyContent: "center", width: "100%" }}>
+          <Button
+            variant="contained"
+            size="large"
+            sx={{
+              bgcolor: "secondary.main",
+              color: "background.default",
+              mt: 5,
+              width: {xs: "100%", md: "33%"},
+              height: 50,
+            }}
+          >
+            All Services
+          </Button>
+        </Box>
       </Container>
     </>
   );

@@ -45,17 +45,6 @@ const theme = createTheme({
       fontWeight: 500,
     },
   },
-
-  components: {
-    MuiCssBaseline: {
-      styleOverrides: {
-        body: {
-          margin: 0,
-          padding: 0,
-        },
-      },
-    },
-  },
 });
 
 export default theme;

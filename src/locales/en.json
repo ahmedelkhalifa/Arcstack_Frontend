@@ -24,6 +24,14 @@
     "card1": {
       "title": "Web Development",
       "description": "We create high-performing, responsive websites that provide an exceptional user experience and drive business growth."
+    },
+    "card2": {
+      "title": "Software Solutions",
+      "description": "We build custom software solutions that streamline operations, enhance productivity, and support business scalability."
+    },
+    "card3": {
+      "title": "UI/UX Design",
+      "description": "We design intuitive and engaging user interfaces that enhance user experience and drive customer satisfaction."
     }
   }
 }

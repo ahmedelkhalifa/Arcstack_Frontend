@@ -20,6 +20,18 @@
     },
     "services": {
         "title": "Hizmetler",
-        "subtitle": "İşletmelerin performansını artırmalarına ve verimli bir şekilde ölçeklenmelerine yardımcı olmak için web siteleri, yazılım sistemleri ve modern arayüzler dahil olmak üzere özel dijital çözümler sunuyoruz."
+        "subtitle": "İşletmelerin performansını artırmalarına ve verimli bir şekilde ölçeklenmelerine yardımcı olmak için web siteleri, yazılım sistemleri ve modern arayüzler dahil olmak üzere özel dijital çözümler sunuyoruz.",
+        "card1": {
+            "title": "Web Geliştirme",
+            "description": "İstisnai bir kullanıcı deneyimi sağlayan ve işletme büyümesini destekleyen yüksek performanslı, duyarlı web siteleri oluşturuyoruz."
+        },
+        "card2": {
+            "title": "Yazılım Çözümleri",
+            "description": "İşletme ölçeklenebilirliğini destekleyen ve verimliliği artıran özel yazılım çözümleri geliştiriyoruz."
+        },
+        "card3": {
+            "title": "UI/UX Tasarımı",
+            "description": "Kullanıcı deneyimini artırarak müşteri memnuniyetini artıran sezgisel ve etkileyici kullanıcı arayüzleri tasarlıyoruz."
+        }
     }
 }
