@@ -1,0 +1,25 @@
+{
+    "navbar": {
+        "home": "Ana Sayfa",
+        "about": "Hakkımızda",
+        "contact": "İletişim",
+        "portfolio": "Portföy",
+        "services": "Hizmetler",
+        "logo": "Arcstack"
+    },
+    "hero": {
+        "title1": "Ürünlerinizi ışık hızında gönderin",
+        "title2": "Bir sonraki uygulamanız burada başlıyor",
+        "title3": "Oluştur. Ölçeklendir. Tekrarla.",
+        "subtitle": "Tüm web geliştirme ihtiyaçlarınız için tek durak çözümünüz.",
+        "button": "Hemen Başlayın"
+    },
+    "about": {
+        "title": "Hakkımızda",
+        "subtitle": "Arcstack'te, işletmelerin güçlü ve modern bir dijital varlık oluşturmalarına yardımcı oluyoruz. Yüksek performanslı web sitelerinden özel yazılım çözümlerine kadar, sadece harika görünen değil, aynı zamanda gerçek değer sunan araçlar oluşturmaya odaklanıyoruz. Bir işletmenin dijital varlığının sadece görsel olmaktan daha fazlası olması gerektiğine inanıyoruz - stratejik, ölçeklenebilir ve büyümeyle uyumlu olmalıdır. Bu nedenle, gerçek dünya koşullarında performans gösteren çözümler oluşturmak için temiz tasarımı, sağlam mühendisliği ve kullanıcı odaklı düşünceyi birleştiriyoruz. İster yeni bir marka başlatıyor olun, ister mevcut bir platformu geliştiriyor olun, ister dahili süreçleri otomatikleştiriyor olun, Arcstack fikirleri güvenilir dijital ürünlere dönüştürmek için uzmanlık sağlar. Amacımız basit: işletmelerin büyümesine, uyum sağlamasına ve giderek dijitalleşen bir dünyada öne çıkmasına yardımcı olan çözümler oluşturmak."
+    },
+    "services": {
+        "title": "Hizmetler",
+        "subtitle": "İşletmelerin performansını artırmalarına ve verimli bir şekilde ölçeklenmelerine yardımcı olmak için web siteleri, yazılım sistemleri ve modern arayüzler dahil olmak üzere özel dijital çözümler sunuyoruz."
+    }
+}

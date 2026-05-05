@@ -1,0 +1,29 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact",
+    "portfolio": "Portfolio",
+    "services": "Services",
+    "logo": "Arcstack"
+  },
+  "hero": {
+    "title1": "Ship products at light speed",
+    "title2": "Your next app starts here",
+    "title3": "Build. Scale. Repeat.",
+    "subtitle": "Your one-stop solution for all your web development needs.",
+    "button": "Get Started"
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "At Arcstack, we help businesses establish a strong and modern digital presence. From high-performing websites to tailored software solutions, we focus on building tools that not only look great but also deliver real value. We believe that a business’s digital presence should be more than just visual—it should be strategic, scalable, and aligned with growth. That’s why we combine clean design, solid engineering, and user-focused thinking to create solutions that perform in real-world conditions. Whether you’re launching a new brand, improving an existing platform, or automating internal processes, Arcstack provides the expertise to turn ideas into reliable digital products. Our goal is simple: build solutions that help businesses grow, adapt, and stand out in an increasingly digital world."
+  },
+  "services": {
+    "title": "Services",
+    "subtitle": "We deliver tailored digital solutions including websites, software systems, and modern interfaces designed to help businesses improve performance and scale efficiently.",
+    "card1": {
+      "title": "Web Development",
+      "description": "We create high-performing, responsive websites that provide an exceptional user experience and drive business growth."
+    }
+  }
+}
