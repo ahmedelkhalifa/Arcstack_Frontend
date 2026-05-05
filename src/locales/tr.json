@@ -8,9 +8,8 @@
         "logo": "Arcstack"
     },
     "hero": {
-        "title1": "Ürünlerinizi ışık hızında gönderin",
-        "title2": "Bir sonraki uygulamanız burada başlıyor",
-        "title3": "Oluştur. Ölçeklendir. Tekrarla.",
+        "title": "Projeniz Burada",
+        "title2": "Başlıyor",
         "subtitle": "Tüm web geliştirme ihtiyaçlarınız için tek durak çözümünüz.",
         "button": "Hemen Başlayın"
     },
@@ -32,6 +31,22 @@
         "card3": {
             "title": "UI/UX Tasarımı",
             "description": "Kullanıcı deneyimini artırarak müşteri memnuniyetini artıran sezgisel ve etkileyici kullanıcı arayüzleri tasarlıyoruz."
+        }
+    },
+    "features": {
+        "feature1": {
+            "title": "Responsive Web Siteleri",
+            "title2": "Tasarlıyoruz",
+            "description": "Hızlı, mobil öncelikli web siteleri oluşturuyoruz, herhangi bir ekrana sorunsuz bir şekilde uyum sağlar ve tüm cihazlarda tutarlı ve etkileyici bir deneyim sunar.",
+            "button": "Daha Fazla Keşfet"
+        },
+        "feature2": {
+            "title": "Biz İşletmenizi",
+            "title2": "Öne Çıkarırız"
+        },
+        "feature3": {
+            "title": "Çalışmanızı Düzenleriz",
+            "title2": "Akıllı Sistemlerle "
         }
     }
 }

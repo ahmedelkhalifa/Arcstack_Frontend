@@ -37,7 +37,7 @@ const Hero = () => {
         >
           <Stack
             sx={{
-              gap: { xs: 5, md: 3 },
+              gap: { xs: 5, md: 5 },
               flexDirection: { xs: "column", lg: "row" },
               alignItems: "center",
             }}
@@ -51,7 +51,10 @@ const Hero = () => {
                 zIndex: 1
               }}
             >
-              <Typography variant="h3" sx={{ fontWeight: 700, mb: 3 }}>
+              <Typography variant="h2" sx={{ fontWeight: 900, color: "text.primary" }}>
+                {t("hero.title")}
+              </Typography>
+              <Typography variant="h2" sx={{ fontWeight: 900, mb: 3, color: "secondary.main" }}>
                 {t("hero.title2")}
               </Typography>
               <Typography
@@ -66,8 +69,9 @@ const Hero = () => {
                 sx={{
                   mt: 3,
                   width: "250px",
-                  bgcolor: "primary.main",
+                  bgcolor: "text.primary",
                   color: "background.default",
+                  height: "50px",
                 }}
               >
                 {t("hero.button")}
@@ -75,7 +79,7 @@ const Hero = () => {
             </Box>
             <Box
               sx={{
-                flex: 2,
+                flex: 1.5,
                 bgcolor: "primary.main",
                 borderRadius: 2,
                 p: 2,

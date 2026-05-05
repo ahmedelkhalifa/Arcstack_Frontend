@@ -8,9 +8,8 @@
     "logo": "Arcstack"
   },
   "hero": {
-    "title1": "Ship products at light speed",
-    "title2": "Your next app starts here",
-    "title3": "Build. Scale. Repeat.",
+    "title": "Your next App",
+    "title2": "Starts Here",
     "subtitle": "Your one-stop solution for all your web development needs.",
     "button": "Get Started"
   },
@@ -32,6 +31,22 @@
     "card3": {
       "title": "UI/UX Design",
       "description": "We design intuitive and engaging user interfaces that enhance user experience and drive customer satisfaction."
+    }
+  },
+  "features": {
+    "feature1": {
+      "title": "We Design",
+      "title2": "Responsive Websites",
+      "description": "We create fast, mobile-first websites that adapt seamlessly to any screen, delivering a consistent and engaging experience across all devices.",
+      "button": "Discover More"
+    },
+    "feature2": {
+      "title": "We Make Your Business",
+      "title2": "Stand Out"
+    },
+    "feature3": {
+      "title": "We Organize Your Work With",
+      "title2": "Smart Systems"
     }
   }
 }

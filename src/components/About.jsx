@@ -59,7 +59,7 @@ const About = () => {
             >
               {t("about.title")}
             </Typography>
-            <Typography variant="body1" sx={{color: "text.secondary"}}>{t("about.subtitle")}</Typography>
+            <Typography variant="body1" sx={{color: "text.secondary", lineHeight: 1.6}}>{t("about.subtitle")}</Typography>
           </Box>
         </Stack>
       </Container>

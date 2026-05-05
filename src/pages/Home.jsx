@@ -5,6 +5,7 @@ import { Box } from "@mui/material";
 import backgroundImage from "../assets/background.jpg";
 import About from "../components/About.jsx";
 import Services from "../components/Services.jsx";
+import Features from "../components/Features.jsx";
 const Home = () => {
   return (
     <>
@@ -36,6 +37,9 @@ const Home = () => {
       </Box>
       <Box id="about" sx={{py: 10}}>
         <About />
+      </Box>
+      <Box id="features" sx={{py: 10}}>
+        <Features />
       </Box>
       <Box id="services" sx={{py: 10, bgcolor: "primary.main", color: "background.default"}}>
         <Services />
