@@ -183,7 +183,7 @@ const Features = () => {
           </Box>
         </Stack>
         <Divider
-          sx={{ borderWidth: 2, borderColor: "secondary.main", mt: 5, mb: 5 }}
+          sx={{ borderWidth: 2, borderColor: "secondary.main", mt: 10, mb: 10 }}
         />
         <Stack
           direction={{ xs: "column", md: "row" }}

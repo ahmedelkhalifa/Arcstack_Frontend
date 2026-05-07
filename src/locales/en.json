@@ -48,5 +48,10 @@
       "title": "We Organize Your Work With",
       "title2": "Smart Systems"
     }
+  },
+  "portfolio": {
+    "title": "Our Portfolio",
+    "subtitle": "A selection of digital experiences and solutions designed to help businesses grow online.",
+    "button": "View Project"
   }
 }

@@ -48,5 +48,10 @@
             "title": "Çalışmanızı Düzenleriz",
             "title2": "Akıllı Sistemlerle "
         }
+    },
+    "portfolio": {
+        "title": "Portföyümüz",
+        "subtitle": "İşletmelerin çevrimiçi büyümesine yardımcı olmak için tasarlanmış çeşitli dijital deneyimler ve çözümler.",
+        "button": "Projeyi Görüntüle"
     }
 }

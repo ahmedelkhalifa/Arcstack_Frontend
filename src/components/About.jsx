@@ -1,4 +1,4 @@
-import { Box, Container, Stack, Typography } from "@mui/material";
+import { Box, Button, Container, Stack, Typography } from "@mui/material";
 import React from "react";
 import { useTranslation } from "react-i18next";
 import image from "../assets/about_img.jpg";
@@ -59,7 +59,12 @@ const About = () => {
             >
               {t("about.title")}
             </Typography>
-            <Typography variant="body1" sx={{color: "text.secondary", lineHeight: 1.6}}>{t("about.subtitle")}</Typography>
+            <Typography
+              variant="body1"
+              sx={{ color: "text.secondary", lineHeight: 1.6 }}
+            >
+              {t("about.subtitle")}
+            </Typography>
           </Box>
         </Stack>
       </Container>
