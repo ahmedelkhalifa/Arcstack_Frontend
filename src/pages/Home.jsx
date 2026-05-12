@@ -7,6 +7,7 @@ import About from "../components/About.jsx";
 import Services from "../components/Services.jsx";
 import Features from "../components/Features.jsx";
 import Portfolio from "../components/Portfolio.jsx";
+import Contact from "../components/Contact.jsx";
 const Home = () => {
   return (
     <>
@@ -47,6 +48,12 @@ const Home = () => {
       </Box>
       <Box id="portfolio" sx={{py: 10}}>
         <Portfolio />
+      </Box>
+      <Box id="contact" sx={{my: 10}}>
+        <Contact />
+      </Box>
+      <Box id="footer" sx={{my: 10}}>
+        <Contact />
       </Box>
     </>
   );
