@@ -2,7 +2,7 @@ import React from "react";
 import Navbar from "./../components/Navbar";
 import Hero from "../components/Hero.jsx";
 import { Box } from "@mui/material";
-import backgroundImage from "../assets/background.jpg";
+import backgroundImage from "../assets/background.webp";
 import About from "../components/About.jsx";
 import Services from "../components/Services.jsx";
 import Features from "../components/Features.jsx";

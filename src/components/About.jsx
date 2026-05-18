@@ -1,7 +1,7 @@
 import { Box, Button, Container, Stack, Typography } from "@mui/material";
 import React from "react";
 import { useTranslation } from "react-i18next";
-import image from "../assets/about_img.jpg";
+import image from "../assets/about_img.webp";
 
 const About = () => {
   const { t } = useTranslation();

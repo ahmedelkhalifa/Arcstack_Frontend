@@ -8,7 +8,7 @@ import {
   Typography,
 } from "@mui/material";
 import React, { useRef } from "react";
-import ContactImg from "../assets/contact_us.jpg";
+import ContactImg from "../assets/contact_us.webp";
 import { Email, Phone } from "@mui/icons-material";
 import emailjs from "@emailjs/browser";
 

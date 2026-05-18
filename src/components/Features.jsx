@@ -8,7 +8,7 @@ import {
   Typography,
 } from "@mui/material";
 import React from "react";
-import responsiveImage from "../assets/responsive.png";
+import responsiveImage from "../assets/responsive.webp";
 import { t } from "i18next";
 import { useTranslation } from "react-i18next";
 

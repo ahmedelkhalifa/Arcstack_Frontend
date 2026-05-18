@@ -10,7 +10,7 @@ import {
   Stack,
   Typography,
 } from "@mui/material";
-import heroImage from "../assets/hero_img.png";
+import heroImage from "../assets/hero_img.webp";
 import { KeyboardArrowDown } from "@mui/icons-material";
 
 const Hero = () => {

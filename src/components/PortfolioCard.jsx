@@ -30,6 +30,7 @@ const PortfolioCard = (props) => {
               className="image"
               component={"img"}
               src={props.image}
+              loading="lazy"
               sx={{
                 width: "100%",
                 height: "100%",
