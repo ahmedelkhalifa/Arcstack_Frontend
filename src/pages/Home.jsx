@@ -8,6 +8,7 @@ import Services from "../components/Services.jsx";
 import Features from "../components/Features.jsx";
 import Portfolio from "../components/Portfolio.jsx";
 import Contact from "../components/Contact.jsx";
+import Footer from "../components/Footer.jsx";
 const Home = () => {
   return (
     <>
@@ -52,8 +53,8 @@ const Home = () => {
       <Box id="contact" sx={{my: 10}}>
         <Contact />
       </Box>
-      <Box id="footer" sx={{my: 10}}>
-        <Contact />
+      <Box id="footer" sx={{mt: 10}}>
+        <Footer />
       </Box>
     </>
   );
