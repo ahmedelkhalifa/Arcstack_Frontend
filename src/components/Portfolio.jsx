@@ -20,7 +20,7 @@ const Portfolio = () => {
       title: "Coffee Shop Website",
       subtitle:
         "A cozy and modern café experience crafted for coffee lovers, featuring handcrafted drinks, fresh pastries, and a warm atmosphere to relax and connect.",
-      link: "https://ahmedelkhalifa.github.io/Web_page1/",
+      link: "https://ahmedelkhalifa.github.io/Coffee-Shop/",
       image: img3,
     },
     {
